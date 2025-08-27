@@ -1,4 +1,7 @@
-    style>
+body {
+  background-image: url("https://cursossenai.com.br/wp-content/uploads/2021/02/senai-inscricoes.jpg");
+  background-size: 1900px;
+}
         #tPrincipal{
             color: blueviolet;
             font-family: 'Times New Roman', Times, serif;
